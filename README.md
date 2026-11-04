@@ -16,19 +16,6 @@ I specialise in payroll and HCM analytics, turning raw workforce data into dashb
 
 ---
 
-## 📊 Featured Project
-
-### [NYC Payroll & Workforce Analysis](https://github.com/sayyedhamza820-ship-it/nyc-payroll-workforce-analysis)
-
-A three-page Power BI dashboard connected to the official NYC Open Data API. It cleans about 550,000 payroll records in Power Query and uses DAX measures to answer where payroll cost sits, who depends on overtime, and how pay is distributed.
-
-- **Cost:** $32.16B total payroll, with Dept of Education the largest share
-- **Overtime:** $2.92B (9.09% of payroll), concentrated in Police, Fire and Correction
-- **Method:** documented cleaning decisions, a data dictionary and stated limitations
-
-[![NYC Payroll Dashboard](https://raw.githubusercontent.com/sayyedhamza820-ship-it/nyc-payroll-workforce-analysis/main/images/01_executive_overview.png)](https://github.com/sayyedhamza820-ship-it/nyc-payroll-workforce-analysis)
-
----
 
 ## 💻 Tech Stack
 
